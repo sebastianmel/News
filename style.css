@@ -84,10 +84,10 @@ header{
 
 #back{
     margin: auto;
-    background: url(/lib/top.jpg);
+    background: url(/lib/foot2.jpg);
     height: 400px;
     width: 1000px;
-
+    border-radius: 10px;
     background-size: cover;
     
 
