@@ -111,6 +111,7 @@ header{
     justify-content: space-around;
     border: 2px red solid;
     flex-flow: row wrap;
+    padding: 10px;
 }
 #mid1 img{
     width:300px;
@@ -145,4 +146,12 @@ header{
 border-bottom: 2px black solid;
 cursor: pointer;
     
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: black;
+    color: #fff;
+    height: 50px;
 }
